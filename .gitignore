@@ -1,13 +1,6 @@
 
-
 # Created by https://www.toptal.com/developers/gitignore/api/angular
 # Edit at https://www.toptal.com/developers/gitignore?templates=angular
-
-### Angular ###
-## Angular ##
-# compiled output
-dist/
-tmp/
 
 
 # dependencies
